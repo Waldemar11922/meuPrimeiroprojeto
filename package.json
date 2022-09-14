@@ -1,0 +1,15 @@
+{
+  "name": "curso-dh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aulaIntro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon aulaIntro.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
